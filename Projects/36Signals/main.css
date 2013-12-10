@@ -1,0 +1,64 @@
+
+
+body {
+	width: auto;
+	border: 1px dashed;
+}
+
+#navbar p {
+	border: 1px dashed;
+	width: 200px;
+}
+
+.navlink {
+	text-decoration: none;
+	border: 1px solid;
+}
+
+#logo37 {
+	border: 1px dashed;
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
+
+#MainText h1{
+	margin: 30px auto 30px auto;
+	text-align: center;
+	font-size: 45px;
+	width: 800px;
+	box: solid;
+}
+
+#MainText h2{
+	font-size: 18px;
+	margin: 0px auto 0px auto;
+	width: 800px;
+	text-align: center;
+}
+
+
+
+}
+#square1 {
+	border: 1px solid red;
+	width: 200px;
+	height: 250px;;
+	display:inline-block;
+	margin: 10px;
+}
+
+#square2 {
+	border: 1px solid red;
+	width: 200px;
+	height: 250px;
+	display:inline-block;
+	margin: 10px;
+}
+
+#square3 {
+	border: 1px solid red;
+	width: 200px;
+	height: 250px;
+	display:inline-block;
+	margin: 10px;
+}
